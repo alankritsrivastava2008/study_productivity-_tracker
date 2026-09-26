@@ -3,13 +3,13 @@
 # Overview 
 Student sometime study more than one subject in one session and lost track of how much time he/she studied . it is also difficult to understand study habit and manage time effectively . The study productivity tracker is a simple program that help student to track their study efficientially and the duration of their study time
 
-#Features
+# Features
 1.Start  a study session
 2.Enter a subject name
 3.View total study time
 4.View report card
 
-#Technologies/Tools uses
+# Technologies/Tools uses
 1.Python
 2.Visual Studio Code
 3.Terminal
@@ -24,6 +24,6 @@ first install python then download the code from the repository and open in Visu
 4. Choosr option 3 to see time with chapter
 5. Choose option 4 to exit
 
-# Screenshot 
+
 
 
